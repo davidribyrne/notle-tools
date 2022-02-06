@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta http-equiv="refresh" content="0;url=/nortle.html" />
+<meta http-equiv="refresh" content="0;url=/notle.html" />
 </head>
 </html>
 
