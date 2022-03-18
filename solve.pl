@@ -3,7 +3,7 @@ use strict;
 use Data::Dumper;
 
 my (@words, @ordered, @candidates, $words, %counts, %good, %bad, @patternY, @patternG);
-my $debug = 1;
+my $debug = 0;
 my $verbose = 1;
 load();
 counts();
